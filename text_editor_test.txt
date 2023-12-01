@@ -1,0 +1,5 @@
+I like nano now. Maybe VIM won't be too different.
+
+UPDATE: I have learned that nano must wrap at 72 characters (50 for 
+the subject line) for commit messages. This update is being used to test
+out the -r option for nano. 
